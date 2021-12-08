@@ -1,7 +1,6 @@
 function includeHTML() 
 {
-	let elmnt
-	var file, xhttp;
+	let elmnt, file, xhttp;
 	let arrElmnt = document.getElementsByTagName("*");
 	for (let i = 0; i < arrElmnt.length; i++) 
 	{
